@@ -1,5 +1,0 @@
-package mud
-
-class Room {
-  
-}
